@@ -22,7 +22,14 @@ sections:
 
 
           We have Loads of fun and Bake and decorate the delicious recipes.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         title: Join the fun!!!
     type: section_grid
