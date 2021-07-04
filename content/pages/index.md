@@ -42,7 +42,7 @@ sections:
         image: /images/nervous-cedar.png
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/violet-sparrow.png
     image_position: left
     title: We Bake With Love
     content: >+
