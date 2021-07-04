@@ -43,6 +43,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
+        image: /images/nervous-cedar.png
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
