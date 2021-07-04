@@ -23,7 +23,7 @@ sections:
 
           We have Loads of fun and Bake and decorate the delicious recipes.
         actions:
-          - label: lorem-ipsum
+          - label: Whatsapp me for more information
             url: '#'
             style: link
             icon_class: dev
