@@ -60,7 +60,7 @@ sections:
 
     actions:
       - label: Reviews from Our Previous Clients
-        url: /docs/getting-started
+        url: 'https://bakedbyacherryontop.co.za/reviews'
         style: secondary
   - section_id: text-no-img
     type: section_content
