@@ -59,7 +59,7 @@ sections:
       absolutely everything we bake!
 
     actions:
-      - label: Reviews from
+      - label: Reviews from Our Clients
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
