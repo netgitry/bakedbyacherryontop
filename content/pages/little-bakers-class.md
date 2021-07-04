@@ -8,8 +8,6 @@ sections:
     grid_items:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: |
-          *
         actions: []
         type: grid_item
     type: section_grid
