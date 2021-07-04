@@ -6,7 +6,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: two
     grid_items:
-      - title: lorem-ipsum
+      - title: Join the fun!!!
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
