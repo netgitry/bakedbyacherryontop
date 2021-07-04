@@ -11,7 +11,7 @@ sections:
       Style and taste. Let us Bake for you!***
 
     actions:
-      - label: lorem-ipsum
+      - label: Check out our AWESOME reviews on Facebook
         url: '#'
         style: link
         icon_class: dev
