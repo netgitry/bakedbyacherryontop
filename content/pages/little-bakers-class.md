@@ -25,6 +25,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        title: Join the fun!!!
     type: section_grid
 seo:
   title: ''
