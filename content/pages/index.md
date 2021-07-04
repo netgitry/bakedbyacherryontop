@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Welcome To Baked By A Cherry On Top
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      **Homemade confectionary.... for every occasion**
+
     actions:
       - label: Get Started
         url: /docs
