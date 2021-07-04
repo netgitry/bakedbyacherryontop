@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: Little Bakers Class
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: two
     grid_items:
