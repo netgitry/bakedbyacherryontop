@@ -5,17 +5,15 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ## Cakes
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      Beautiful and mouthwatering, We cater to your needs and entise every taste
+      bud. We love to create beautiful , yet tastefully delicious cakes!
 
-      - dolor sit amet
     actions: []
     type: section_content
 seo:
