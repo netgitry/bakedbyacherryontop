@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Check out our AWESOME reviews on Facebook
         url: 'https://www.facebook.com/pg/bakedbyacherryontop/reviews/'
-        style: primary
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
