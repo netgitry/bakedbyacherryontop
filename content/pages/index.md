@@ -54,10 +54,10 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: We Bake With Love
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >+
+      At Baked By A Cherry On Top we pour love , flavour and expertise into
+      absolutely everything we bake!
+
     actions:
       - label: View Demo
         url: /docs/getting-started
