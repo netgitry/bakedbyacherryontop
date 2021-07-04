@@ -25,7 +25,7 @@ sections:
         actions:
           - label: Whatsapp me for more information
             url: 'https://wa.me/message/WYKY5SMM27SEH1'
-            style: primary
+            style: secondary
             icon_class: dev
             new_window: false
             no_follow: false
