@@ -11,9 +11,15 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+**Business Hours**
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Michelle (Head Baker & Owner) | 076 257 1605
 
-- Lorem ipsum
-- dolor sit amet
+
+
+<orders@bakedbyacherryontop.co.za>
+
+###### **Business Hours**
+
+Mon - Fri : 09:00 - 18:00pm |Sat : 09:00 - 15:00pm | Sun : 09:00 - 13:00pm
+
