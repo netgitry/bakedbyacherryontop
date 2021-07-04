@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome To Baked By A Cherry On Top
-    image: images/5.jpg
+    image: /images/full color wood.jpg
     content: |+
       **Homemade confectionary.... for every occasion**
 
