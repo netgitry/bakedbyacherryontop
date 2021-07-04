@@ -22,6 +22,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/LITTLE_1 chef.jpg
     type: section_grid
 seo:
   title: ''
