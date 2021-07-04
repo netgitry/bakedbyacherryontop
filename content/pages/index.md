@@ -96,7 +96,7 @@ sections:
             style: link
   - section_id: text-no-img
     type: section_content
-    title: We would love to hear from you
+    title: We would love to hear from you!
     content: |+
       Let us know how we can assist...
 
