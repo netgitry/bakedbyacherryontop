@@ -9,7 +9,7 @@ sections:
       **Homemade confectionary.... for every occasion**
 
     actions:
-      - label: See Some of our latest creations
+      - label: See Some of our latest creations & Featured Cakes
         url: /docs
         style: primary
   - section_id: features
