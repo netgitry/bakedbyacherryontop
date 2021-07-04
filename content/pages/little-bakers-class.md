@@ -13,7 +13,8 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
-          #### **We Host Little Bakers Classes**&#xA;
+          **We Host Little Bakers Classes**
+
 
 
           Let your little one Join our classes to become the next best little
