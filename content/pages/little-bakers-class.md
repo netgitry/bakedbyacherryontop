@@ -10,6 +10,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
+        image: /images/amazing-sparrow.jpg
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
