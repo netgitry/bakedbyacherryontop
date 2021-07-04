@@ -72,7 +72,7 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: We would love to hear fro  you
+    title: We would love to hear from  you
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
