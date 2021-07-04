@@ -101,7 +101,7 @@ sections:
       Let us know how we can assist...
 
     actions:
-      - label: Get Started
+      - label: Get in Touch
         url: /docs/getting-started/installation
         style: primary
 seo:
