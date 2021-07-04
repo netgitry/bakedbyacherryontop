@@ -33,6 +33,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
+        image: /images/116292291_1008722379562799_3617305661367600546_o.jpg
       - title: Donuts
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
