@@ -1,8 +1,6 @@
 ---
 title: Contact Us
-subtitle: >-
-  Business Hours Mon - Fri : 09:00 - 18:00pm |Sat : 09:00 - 15:00pm | Sun :
-  09:00 - 13:00pm
+subtitle: We love hearing from you!
 seo:
   title: ''
   description: ''
