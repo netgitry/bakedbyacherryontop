@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Little Bakers Class
 sections:
   - title: Little Bakers Class
     subtitle: lorem-ipsum
