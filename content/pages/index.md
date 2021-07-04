@@ -62,6 +62,14 @@ sections:
       - label: Reviews from Our Previous Clients
         url: 'https://bakedbyacherryontop.co.za/reviews'
         style: secondary
+  - section_id: cta
+    type: section_cta
+    title: Remember to place your order
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - label: Shop Now
+        url: /docs/getting-started/installation
+        style: primary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
@@ -86,14 +94,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: cta
-    type: section_cta
-    title: Remember to place your order
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Shop Now
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
