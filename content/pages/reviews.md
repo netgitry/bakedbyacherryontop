@@ -10,7 +10,14 @@ sections:
       exactly why we are the best option when it comes to quality, flavour,
       Style and taste. Let us Bake for you!***
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
     image: /images/ef9974595756282af55d6427482579e0x.webp
 seo:
