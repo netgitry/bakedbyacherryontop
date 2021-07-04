@@ -25,6 +25,7 @@ sections:
           - label: Get Started
             url: /docs
             style: link
+        image: /images/7x5 CAK.png
       - title: Cupcakes
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
