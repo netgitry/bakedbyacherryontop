@@ -100,6 +100,8 @@ sections:
     content: |+
       Let us know how we can assist...
 
+      <orders@bakedbyacherryontop.co.za>
+
     actions:
       - label: Get in Touch
         url: /docs/getting-started/installation
