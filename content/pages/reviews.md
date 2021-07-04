@@ -5,17 +5,11 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ***Please have a look at all our reviews on Facebook, and you will see
+      exactly why we are the best option when it comes to quality, flavour,
+      Style and taste. Let us Bake for you!***
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     image: /images/ef9974595756282af55d6427482579e0x.webp
