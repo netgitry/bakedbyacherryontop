@@ -1,7 +1,7 @@
 ---
 title: Reviews
 sections:
-  - title: lorem-ipsum
+  - title: See what others are saying about us!
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
