@@ -12,17 +12,15 @@ sections:
         type: grid_item
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          #### **We Host Little Bakers Classes**&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Let your little one Join our classes to become the next best little
+          Baker South Africa has seen.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          We have Loads of fun and Bake and decorate the delicious recipes.
         actions: []
         type: grid_item
         title: Join the fun!!!
