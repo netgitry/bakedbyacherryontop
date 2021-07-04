@@ -18,6 +18,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/ef9974595756282af55d6427482579e0x.webp
 seo:
   title: ''
   description: ''
