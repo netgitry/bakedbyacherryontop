@@ -33,10 +33,7 @@ sections:
           occasion. There is so many flavours to choose from, that your
           tastebuds will go on a adventure.
 
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
+        actions: []
         image: /images/116292291_1008722379562799_3617305661367600546_o.jpg
       - title: Donuts
         content: >+
