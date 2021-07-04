@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: Welcome To Baked By A Cherry On Top
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
