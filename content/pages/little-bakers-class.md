@@ -1,11 +1,6 @@
 ---
 title: lorem-ipsum
-sections:
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    type: section_docs
+sections: []
 seo:
   title: ''
   description: ''
