@@ -12,7 +12,7 @@ sections:
 
     actions:
       - label: Check out our AWESOME reviews on Facebook
-        url: '#'
+        url: 'https://www.facebook.com/pg/bakedbyacherryontop/reviews/'
         style: link
         icon_class: dev
         new_window: false
