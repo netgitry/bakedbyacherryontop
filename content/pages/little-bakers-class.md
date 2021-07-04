@@ -32,7 +32,7 @@ sections:
             type: action
           - label: Classes will resume after lockdown
             url: 'https://bakedbyacherryontop.co.za/Contact'
-            style: icon
+            style: link
             icon_class: dev
             new_window: false
             no_follow: false
