@@ -61,7 +61,7 @@
             {
                 "label": "Reviews",
                 "url": "/reviews",
-                "style": "link",
+                "style": "primary",
                 "has_subnav": true,
                 "subnav_links": [
                     {
