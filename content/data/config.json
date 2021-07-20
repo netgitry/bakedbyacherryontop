@@ -79,7 +79,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact-us",
-                "style": "link",
+                "style": "primary",
                 "has_subnav": false
             }
         ]
