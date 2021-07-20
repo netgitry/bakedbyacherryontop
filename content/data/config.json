@@ -45,12 +45,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Github",
-                "url": "https://github.com/",
-                "style": "primary",
-                "has_subnav": false
-            },
-            {
                 "label": "Shop",
                 "url": "#",
                 "style": "link",
