@@ -68,7 +68,7 @@
                 "type": "action_menu"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Specials",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
