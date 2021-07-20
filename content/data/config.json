@@ -26,6 +26,17 @@
                 "type": "action_menu"
             },
             {
+                "label": "Specials",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "has_subnav": false,
+                "subnav_links": [],
+                "type": "action_menu"
+            },
+            {
                 "label": "Reviews",
                 "url": "/reviews",
                 "style": "link",
@@ -48,17 +59,6 @@
                 "url": "/contact-us",
                 "style": "link",
                 "has_subnav": false
-            },
-            {
-                "label": "Specials",
-                "url": "#",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "has_subnav": false,
-                "subnav_links": [],
-                "type": "action_menu"
             },
             {
                 "label": "Little Bakers Class",
