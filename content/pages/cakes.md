@@ -52,7 +52,6 @@ sections:
       ![](/images/website%20banner%20one-3e9bf538.jpg)
     actions: []
     type: section_hero
-    image: /images/website banner one-4964b6d5.jpg
 seo:
   title: ''
   description: ''
