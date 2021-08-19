@@ -100,7 +100,7 @@ sections:
       want to entertain...
 
     actions:
-      - label: lorem-ipsum
+      - label: Head over o our platter section
         url: '#'
         style: link
         icon_class: dev
