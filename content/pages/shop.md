@@ -49,17 +49,14 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ## Donuts
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We have a huge variety of Donuts to entise your every need, From the
+      visual point of view to the tantalizing explosion of flavour and
+      deliciousness.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 seo:
