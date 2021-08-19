@@ -14,7 +14,14 @@ sections:
       Beautiful and mouthwatering, We cater to your needs and entise every taste
       bud. We love to create beautiful , yet tastefully delicious cakes!
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
