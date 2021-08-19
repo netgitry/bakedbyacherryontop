@@ -28,17 +28,13 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      # Cupcakes&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Our cupcakes are not only popular for their unique presentation, they are
+      also deliciously made with the best ingredients and a lot of love.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 seo:
