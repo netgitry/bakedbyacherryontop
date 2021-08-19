@@ -52,7 +52,7 @@ sections:
     actions:
       - label: Reviews from Our Previous Clients
         url: 'https://bakedbyacherryontop.co.za/reviews'
-        style: secondary
+        style: primary
   - section_id: cta
     type: section_cta
     title: Remember to place your order
