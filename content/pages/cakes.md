@@ -43,8 +43,7 @@ sections:
         no_follow: false
         type: action
     type: section_cta
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
