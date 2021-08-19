@@ -44,7 +44,6 @@ sections:
         type: action
     type: section_cta
   - title: lorem-ipsum
-    section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >-
