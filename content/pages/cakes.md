@@ -60,6 +60,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/website banner one-9cf3b535.jpg
 seo:
   title: ''
   description: ''
