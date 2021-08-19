@@ -38,7 +38,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: itchen Tea
+      - label: Kitchen Tea
         url: '#'
         style: secondary
         icon_class: dev
