@@ -1,6 +1,10 @@
 ---
 title: Cakes
 sections:
+  - content: |
+      ![](/images/website%20banner%20one-3e9bf538.jpg)
+    actions: []
+    type: section_hero
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -48,10 +52,6 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
-  - content: |
-      ![](/images/website%20banner%20one-3e9bf538.jpg)
-    actions: []
-    type: section_hero
 seo:
   title: ''
   description: ''
