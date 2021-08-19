@@ -27,7 +27,7 @@ sections:
   - title: Mouthwatering and extraordinary
     section_id: Enter our cupcake secion for a selection of beautiful cupcakes
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     content: >+
       # Cupcakes&#xA;
 
