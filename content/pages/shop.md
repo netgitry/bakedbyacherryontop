@@ -25,7 +25,7 @@ sections:
     type: section_content
     image: /images/cake one.jpg
   - title: Mouthwatering and extraordinary
-    section_id: Enter our cupcake secion for a selected
+    section_id: Enter our cupcake secion for a selection o beautiful cupcakes
     image_alt: lorem-ipsum
     image_position: left
     content: >+
