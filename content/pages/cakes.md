@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cakes
 sections: []
 seo:
   title: ''
