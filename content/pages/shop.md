@@ -57,7 +57,14 @@ sections:
       visual point of view to the tantalizing explosion of flavour and
       deliciousness.
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
     image: /images/donuts one.jpg
 seo:
