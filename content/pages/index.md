@@ -56,7 +56,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Remember to place your order
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Let us know how we can assist...
     actions:
       - label: Shop Now
         url: /docs/getting-started/installation
