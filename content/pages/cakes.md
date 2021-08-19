@@ -53,6 +53,7 @@ sections:
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
     section_id: Please pick a category
+    image_alt: Please pick a category
 seo:
   title: ''
   description: ''
