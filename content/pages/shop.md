@@ -58,7 +58,7 @@ sections:
       deliciousness.
 
     actions:
-      - label: lorem-ipsum
+      - label: Enter our donut section and have a look for yourself!
         url: '#'
         style: link
         icon_class: dev
