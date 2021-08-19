@@ -81,7 +81,7 @@ sections:
     actions:
       - label: Enter all our delicious all-sors secion
         url: '#'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
