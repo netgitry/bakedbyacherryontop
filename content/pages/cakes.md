@@ -13,7 +13,14 @@ sections:
     type: section_content
   - section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_cta
 seo:
   title: ''
