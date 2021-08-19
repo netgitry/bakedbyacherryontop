@@ -5,7 +5,7 @@ sections:
       ![](/images/website%20banner%20one-3e9bf538.jpg)
     actions: []
     type: section_hero
-  - title: lorem-ipsum
+  - title: We have CAKES for all occasions...
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
