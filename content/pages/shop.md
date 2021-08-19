@@ -79,7 +79,7 @@ sections:
       delicasies and delicious treats
 
     actions:
-      - label: lorem-ipsum
+      - label: Enter all our delicious all-sors secion
         url: '#'
         style: link
         icon_class: dev
