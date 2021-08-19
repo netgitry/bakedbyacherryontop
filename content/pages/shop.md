@@ -35,7 +35,14 @@ sections:
       Our cupcakes are not only popular for their unique presentation, they are
       also deliciously made with the best ingredients and a lot of love.
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
