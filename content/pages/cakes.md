@@ -43,12 +43,6 @@ sections:
         no_follow: false
         type: action
     type: section_cta
-  - section_id: lorem-ipsum
-    content: |
-      *
-    actions: []
-    type: section_hero
-    image: /images/website banner one.jpg
 seo:
   title: ''
   description: ''
