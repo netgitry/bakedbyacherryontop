@@ -58,7 +58,7 @@ sections:
     title: Remember to place your order
     actions:
       - label: Shop Now
-        url: /docs/getting-started/installation
+        url: /Shop
         style: primary
     subtitle: We would be honored to bake for you and your next special event!
   - section_id: text-no-img
