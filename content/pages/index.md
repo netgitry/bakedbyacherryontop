@@ -60,6 +60,7 @@ sections:
       - label: Shop Now
         url: /docs/getting-started/installation
         style: primary
+    subtitle: We would be honored to bake for you and your next special event!
   - section_id: text-no-img
     type: section_content
     title: We would love to hear from you!
