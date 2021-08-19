@@ -11,7 +11,7 @@ sections:
       *
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
+  - section_id: Birthdays
     subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
