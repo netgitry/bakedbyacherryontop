@@ -48,6 +48,11 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    type: section_docs
 seo:
   title: ''
   description: ''
