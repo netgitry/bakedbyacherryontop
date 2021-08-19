@@ -59,6 +59,7 @@ sections:
 
     actions: []
     type: section_content
+    image: /images/donuts one.jpg
 seo:
   title: ''
   description: ''
