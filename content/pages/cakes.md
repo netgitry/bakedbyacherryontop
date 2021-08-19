@@ -46,6 +46,7 @@ sections:
         no_follow: false
         type: action
     type: section_cta
+    subtitle: 'We have different cakes for different Themes, Occasions & Functions'
   - title: lorem-ipsum
     image_position: left
     actions: []
