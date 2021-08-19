@@ -61,12 +61,6 @@ sections:
       - label: Shop Now
         url: /docs/getting-started/installation
         style: primary
-  - section_id: features-two-col
-    type: section_grid
-    title: We would love to hear from  you
-    subtitle: Let us know how we can assist...
-    col_number: two
-    grid_items: []
   - section_id: text-no-img
     type: section_content
     title: We would love to hear from you!
