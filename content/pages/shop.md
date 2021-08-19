@@ -45,7 +45,7 @@ sections:
         type: action
     type: section_content
     image: /images/cupcakes one.jpg
-  - title: lorem-ipsum
+  - title: Extraordinary and uniquely delicious
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
