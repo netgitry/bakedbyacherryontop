@@ -87,6 +87,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: /images/Carrot and cheesecake one.png
 seo:
   title: ''
   description: ''
