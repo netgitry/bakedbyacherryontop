@@ -36,7 +36,7 @@ sections:
       also deliciously made with the best ingredients and a lot of love.
 
     actions:
-      - label: lorem-ipsum
+      - label: Enter
         url: '#'
         style: link
         icon_class: dev
