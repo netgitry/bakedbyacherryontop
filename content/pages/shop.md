@@ -71,17 +71,13 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      ## Our allsorts..this is the extra's!&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Cakepops, Cakesicles, Fruit pops, Cheesecakes and so much more of our
+      delicasies and delicious treats
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
 seo:
