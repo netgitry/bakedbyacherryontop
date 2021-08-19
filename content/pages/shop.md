@@ -78,7 +78,14 @@ sections:
       Cakepops, Cakesicles, Fruit pops, Cheesecakes and so much more of our
       delicasies and delicious treats
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
