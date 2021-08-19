@@ -109,7 +109,7 @@ sections:
         type: action
     type: section_content
     image: /images/platter one.png
-  - title: lorem-ipsum
+  - title: Cookies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
