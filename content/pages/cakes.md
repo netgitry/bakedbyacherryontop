@@ -30,7 +30,7 @@ sections:
         type: action
       - label: Weddings
         url: '#'
-        style: link
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
