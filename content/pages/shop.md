@@ -36,7 +36,7 @@ sections:
       also deliciously made with the best ingredients and a lot of love.
 
     actions:
-      - label: Enter
+      - label: Enter our cupcake secion for a selection of beautiful cupcakes
         url: '#'
         style: link
         icon_class: dev
