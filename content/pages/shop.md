@@ -68,7 +68,7 @@ sections:
     type: section_content
     image: /images/donuts one.jpg
   - title: All our other sweet stuff!
-    section_id: lorem-ipsum
+    section_id: Enter all our delicious all-sorts Section
     image_alt: lorem-ipsum
     image_position: right
     content: >+
