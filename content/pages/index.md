@@ -64,7 +64,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: We would love to hear from  you
-    subtitle: An optional subtitle of the section
+    subtitle: Let us know how we can assist...
     col_number: two
     grid_items:
       - title: Overview
