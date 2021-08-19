@@ -46,7 +46,7 @@ sections:
     type: section_content
     image: /images/cupcakes one.jpg
   - title: Extraordinary and uniquely delicious
-    section_id: lorem-ipsum
+    section_id: Enter our donut section and have a look for yourself!
     image_alt: lorem-ipsum
     image_position: left
     content: >+
