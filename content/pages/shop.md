@@ -15,7 +15,7 @@ sections:
       bud. We love to create beautiful , yet tastefully delicious cakes!
 
     actions:
-      - label: lorem-ipsum
+      - label: Enter our cake section for a delicious variety of cakes
         url: '#'
         style: link
         icon_class: dev
