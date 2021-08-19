@@ -24,7 +24,7 @@ sections:
         type: action
     type: section_content
     image: /images/cake one.jpg
-  - title: lorem-ipsum
+  - title: Mouthwatering and extraordinary
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
