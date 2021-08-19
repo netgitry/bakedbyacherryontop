@@ -48,17 +48,8 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      ![](/images/website%20banner%20one-3e9bf538.jpg)
     actions: []
     type: section_hero
     image: /images/website banner one-4964b6d5.jpg
