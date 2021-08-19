@@ -44,6 +44,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: /images/cupcakes one.jpg
 seo:
   title: ''
   description: ''
