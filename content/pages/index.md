@@ -56,7 +56,6 @@ sections:
   - section_id: cta
     type: section_cta
     title: Remember to place your order
-    subtitle: We would be honored to bake for you and your next special event!
     actions:
       - label: Shop Now
         url: /docs/getting-started/installation
