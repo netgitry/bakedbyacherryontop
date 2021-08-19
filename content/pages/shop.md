@@ -102,7 +102,7 @@ sections:
     actions:
       - label: Head over o our platter section
         url: '#'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
