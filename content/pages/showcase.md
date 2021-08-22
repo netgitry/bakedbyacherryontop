@@ -24,7 +24,7 @@ sections:
     actions: []
     type: section_content
     image: /images/WhatsApp Image 2021-01-28 at 7.13.30 AM.jpeg
-  - title: lorem-ipsum
+  - title: We had the opportunity to bake for 7de Laan
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
