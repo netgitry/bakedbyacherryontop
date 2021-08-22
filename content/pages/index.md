@@ -71,7 +71,7 @@ sections:
 
     actions:
       - label: Get in Touch
-        url: /docs/getting-started/installation
+        url: /contact-us
         style: primary
 seo:
   title: Stackbit Libris Theme
