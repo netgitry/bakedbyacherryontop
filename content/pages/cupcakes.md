@@ -61,7 +61,14 @@ sections:
       ## Mermaid
 
       Beautiful Turquoise and purple Mermaid Cupcakes.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
     image: /images/mermaid.png
   - section_id: lorem-ipsum
