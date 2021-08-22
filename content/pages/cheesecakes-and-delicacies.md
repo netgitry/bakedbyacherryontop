@@ -103,7 +103,7 @@ sections:
 
       - dolor sit amet
     actions:
-      - label: lorem-ipsum
+      - label: Whatsapp
         url: '#'
         style: link
         icon_class: dev
