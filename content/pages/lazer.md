@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: SPECIALS
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
