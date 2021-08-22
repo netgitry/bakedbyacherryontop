@@ -78,7 +78,14 @@ sections:
       ## Sunflower Cupcakes
 
       Beautiful summer and sunny, sunflower themed cupcakes.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
     image: /images/7x5 sunf.png
   - section_id: lorem-ipsum
