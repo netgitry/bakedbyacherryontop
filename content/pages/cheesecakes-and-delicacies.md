@@ -4,15 +4,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >
+    content: |
       ## Cakesicles&#xA;
-
 
       **From R15 each.**
 
-
-      #### ****[Order On
-      Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/7x5 sweets.png
