@@ -170,6 +170,17 @@
                 "icon_class": "github",
                 "new_window": true
             }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
         ]
     },
     "domain": "https://unique-artichoke-1b290.netlify.app"
