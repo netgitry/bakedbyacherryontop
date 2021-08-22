@@ -99,8 +99,6 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      *
     actions:
       - label: Whatsapp
         url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
