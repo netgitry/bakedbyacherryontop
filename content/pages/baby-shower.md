@@ -154,6 +154,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/A (29).png
 seo:
   title: ''
   description: ''
