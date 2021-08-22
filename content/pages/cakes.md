@@ -41,7 +41,7 @@ sections:
         no_follow: false
         type: action
     type: section_cta
-    title: We have cakes
+    title: '       We have cakes'
     subtitle: 'for different Themes, Occasions & Functions'
   - title: 'We have different cakes for different Themes, Occasions & Functions'
     section_id: lorem-ipsum
