@@ -109,7 +109,7 @@ sections:
         type: action
     type: section_content
   - title: ORDER ON WHATSAPP
-    section_id: lorem-ipsum
+    section_id: WHATSAPP
     image_alt: lorem-ipsum
     image_position: left
     actions:
