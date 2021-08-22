@@ -8,7 +8,7 @@ sections:
     content: |
       ###### **Please Check back regularly**
 
-      ###### ****
+      ######
     actions: []
     type: section_content
     image: /images/website banner one-b5884c53.jpg
