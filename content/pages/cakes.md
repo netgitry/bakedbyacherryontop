@@ -43,6 +43,11 @@ sections:
     type: section_cta
     title: We have cakes
     subtitle: 'for different Themes, Occasions & Functions'
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: ''
   description: ''
