@@ -47,7 +47,7 @@ sections:
         type: action
     type: section_cta
     title: We have cakes
-    subtitle: 'for different Themes,Occasions & Functions'
+    subtitle: 'for different Themes, Occasions & Functions'
   - title: We have CAKES for all occasions...
     image_position: left
     actions: []
