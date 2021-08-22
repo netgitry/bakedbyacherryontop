@@ -15,17 +15,22 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          **Buttercream – R100 per dozen**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+          *   Red velvet
 
-          - Lorem ipsum
+          *   Carrot
 
-          - dolor sit amet
+          *   Lemon
+
+          *   Chocolate vanilla
+
+          *   Double chocolate
+
+          *   Blueberry
         actions: []
         type: grid_item
     type: section_grid
