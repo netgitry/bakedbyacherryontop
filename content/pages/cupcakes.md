@@ -63,7 +63,7 @@ sections:
       Beautiful Turquoise and purple Mermaid Cupcakes.
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
         style: link
         icon_class: dev
         new_window: false
