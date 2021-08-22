@@ -643,6 +643,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/adukt chocolate explosion.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
