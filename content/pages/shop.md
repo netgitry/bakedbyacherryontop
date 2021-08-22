@@ -71,13 +71,12 @@ sections:
     section_id: Enter all our delicious all-sorts Section
     image_alt: lorem-ipsum
     image_position: right
-    content: >+
+    content: >
       ## Our allsorts..this is the extra's!&#xA;
 
 
       Cakepops, Cakesicles, Fruit pops, Cheesecakes and so much more of our
-      delicasies and delicious treats
-
+      delicacies and delicious treats
     actions:
       - label: Enter all our delicious all-sors secion
         url: /cheesecakes-and-delicacies
