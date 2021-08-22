@@ -61,7 +61,7 @@ sections:
     content: |
       ## Mermaid
 
-      Beautiful Turquise and purple Mermaid Cupcakes.
+      Beautiful Turquoise and purple Mermaid Cupcakes.
     actions: []
     type: section_content
     image: /images/mermaid.png
