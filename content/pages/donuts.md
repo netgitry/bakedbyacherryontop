@@ -21,19 +21,11 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          #### **Buttercream essenses – R140 per dozen**&#xA;
+          #### **Donuts – Mini**&#xA;
 
-          Orange, Lemon, Caramel, Tutti frutti,
+          *   Box of 30 – R70 (half chocolate/half vanilla)
 
-          Bubblegum, Pineapple Coconut,
-
-          Amarula, Chocolate, Blueberry,
-
-          Candyfloss, Strawberry, Unicorn,
-
-          Peach, Hazelnut, Lime, Cherry,
-
-          Condense milk, Cookie and cream
+          *   Add colour chocolate – R10 per box (per colour)
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
