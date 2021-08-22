@@ -34,7 +34,10 @@ sections:
       you!
     actions:
       - label: ORDER ON WHATSAPP
-        url: '#'
+        url: >-
+          Savoury & Sweet Platters Delicious Platters for all occasions. Whether
+          you need basic platers or custom created platters, we can assist in
+          creating the Right platter for you!
         style: link
         icon_class: dev
         new_window: false
