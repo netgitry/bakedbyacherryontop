@@ -5,6 +5,7 @@ sections:
     type: section_hero
     image: images/5.jpg
     content: This is an optional page subtitle
+    title: Showcase of some of our latest Creations & Features
   - section_id: showcase
     type: section_grid
     col_number: three
