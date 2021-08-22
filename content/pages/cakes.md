@@ -28,7 +28,7 @@ sections:
         no_follow: false
         type: action
       - label: Weddings
-        url: '#'
+        url: /wedding-cakes
         style: primary
         icon_class: dev
         new_window: false
