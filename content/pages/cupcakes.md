@@ -54,19 +54,6 @@ sections:
         type: grid_item
     type: section_grid
     title: Cupcakes Prices and Flavour
-  - title: ORDER ON WHATSAPP
-    section_id: WHATSAPP
-    image_alt: lorem-ipsum
-    image_position: left
-    actions:
-      - label: Whatsapp
-        url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_content
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
