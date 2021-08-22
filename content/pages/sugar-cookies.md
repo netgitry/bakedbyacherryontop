@@ -78,7 +78,7 @@ sections:
     content: |+
       ## Paint your own - Lama
 
-
+      \*Price will be quoted upon request
 
     actions: []
     type: section_content
