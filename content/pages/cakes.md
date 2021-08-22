@@ -35,7 +35,7 @@ sections:
     title: We have cakes
     subtitle: 'for different Themes, Occasions & Functions'
   - title: We have CAKES for all occasions
-    section_id: lorem-ipsum
+    section_id: cakes
     image_alt: lorem-ipsum
     image_position: left
     content: |
