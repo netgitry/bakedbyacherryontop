@@ -33,7 +33,7 @@ sections:
       custom created platters, we can assist in creating the Right platter for
       you!
     actions:
-      - label: lorem-ipsum
+      - label: ORDER I
         url: '#'
         style: link
         icon_class: dev
