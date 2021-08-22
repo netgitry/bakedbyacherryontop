@@ -32,7 +32,14 @@ sections:
       Delicious Platters for all occasions. Whether you need basic platers or
       custom created platters, we can assist in creating the Right platter for
       you!
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
