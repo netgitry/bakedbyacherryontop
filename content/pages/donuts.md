@@ -7,19 +7,15 @@ sections:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
-          #### **Buttercream – R120 per dozen**
+          #### **Donuts - Large**&#xA;
 
-          *   Red velvet
+          *   Custard filled donuts – R20 each
 
-          *   Carrot
+          *   Assorted flavours – R150 a dozen
 
-          *   Lemon
+          *   Cinnamon – R100 a dozen
 
-          *   Chocolate vanilla
-
-          *   Double chocolate
-
-          *   Blueberry
+          *   3D Donuts – From R15 each
         actions: []
         type: grid_item
       - title_url: lorem-ipsum
