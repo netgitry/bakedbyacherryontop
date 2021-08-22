@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Cupcakes
 sections:
   - section_id: lorem-ipsum
     col_number: three
