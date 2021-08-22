@@ -95,7 +95,7 @@ sections:
     actions: []
     type: section_content
     image: /images/Superhero.png
-  - title: lorem-ipsum
+  - title: ORDER ON WHATSAPP
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
