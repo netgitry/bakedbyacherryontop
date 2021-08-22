@@ -15,7 +15,14 @@ sections:
       ###### **Business Hours**
 
       Mon - Fri : 09:00 - 18:00pm |Sat : 09:00 - 15:00pm | Sun : 09:00 - 13:00pm
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''
