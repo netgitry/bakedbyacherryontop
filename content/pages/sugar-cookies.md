@@ -128,8 +128,7 @@ sections:
     actions: []
     type: section_content
     image: /images/64D27AE1-7932-4CEC-B6B6-8FD37FBC13EC.JPG
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
