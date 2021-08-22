@@ -5,7 +5,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ### 7de Laan Featured Wedding Cake
+      #### 7de Laan Featured Wedding Cake
     actions: []
     type: section_content
     image: /images/superb-octopus.png
