@@ -967,6 +967,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/19.png
 seo:
   title: ''
   description: ''
