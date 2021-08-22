@@ -9,6 +9,7 @@ sections:
       Beach themed cake
     actions: []
     type: section_content
+    image: /images/Beach theme kitchen tea cake.png
 seo:
   title: ''
   description: ''
