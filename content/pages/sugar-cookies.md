@@ -99,17 +99,11 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Army 
 
+      \*Price will be quoted upon request
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     image: /images/4F4BF60C-C906-4B4E-8384-5F14F4F2E966.JPG
