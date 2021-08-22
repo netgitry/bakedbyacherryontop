@@ -1,7 +1,7 @@
 ---
 title: Cakes
 sections:
-  - title: We have CAKES for all occasions...
+  - title: We have CAKES for all occasions... Please pick a category
     image_position: left
     actions: []
     type: section_content
