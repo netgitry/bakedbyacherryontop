@@ -75,7 +75,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ## Bunny themed Baby Shower Cake&#xA;&#xA;
+      ### Bunny themed Baby Shower Cake&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/A (29).png
