@@ -14,12 +14,8 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >
-      ## How to Train your Dragon 3D Donuts themed&#xA;&#xA;
-
-
-      This Cute Theme is absolutely Every How to train your Dragon And Donut
-      Lovers, Dream Party Snack.
+    content: |
+      ## Baked Caramel cheesecake&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Caramel.png
