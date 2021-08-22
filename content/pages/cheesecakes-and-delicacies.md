@@ -74,6 +74,7 @@ sections:
       **From R10 each**
     actions: []
     type: section_content
+    image: /images/cakepops.png
 seo:
   title: ''
   description: ''
