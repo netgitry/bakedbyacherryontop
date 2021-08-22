@@ -28,7 +28,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-    title: 'Cupcakes Prices and '
+    title: Cupcakes Prices and Flavour
 seo:
   title: ''
   description: ''
