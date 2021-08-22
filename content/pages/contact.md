@@ -23,7 +23,7 @@ sections:
         no_follow: false
         type: action
       - label: Find us on GOOGLE MAPS
-        url: '#'
+        url: 'https://goo.gl/maps/s2CQnjNqG15DAjaC9'
         style: link
         icon_class: dev
         new_window: false
