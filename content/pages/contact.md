@@ -17,7 +17,7 @@ sections:
       Mon - Fri : 09:00 - 18:00pm |Sat : 09:00 - 15:00pm | Sun : 09:00 - 13:00pm
     actions:
       - label: Contact us on WHATSAPP
-        url: '#'
+        url: 'https://wa.me/message/WYKY5SMM27SEH1'
         style: link
         icon_class: dev
         new_window: false
