@@ -266,11 +266,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
-      Love - Heart
+    content: |
+      ## Love - Heart
 
       \*Price will be quoted upon request
-
     actions: []
     type: section_content
     image: /images/IMG-5062.jpg
