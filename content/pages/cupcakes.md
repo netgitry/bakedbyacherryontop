@@ -89,6 +89,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/7x5 sunf.png
 seo:
   title: ''
   description: ''
