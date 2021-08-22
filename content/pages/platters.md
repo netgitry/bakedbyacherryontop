@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: PLatters
 sections: []
 seo:
   title: ''
