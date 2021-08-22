@@ -35,7 +35,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     actions:
-      - label: lorem-ipsum
+      - label: Whatsapp
         url: '#'
         style: link
         icon_class: dev
