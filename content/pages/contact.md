@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Find us on GOOGLE MAPS
         url: '#'
         style: link
         icon_class: dev
