@@ -1,6 +1,12 @@
 ---
 title: Cakes
 sections:
+  - title: We have CAKES for all occasions...
+    image_position: left
+    actions: []
+    type: section_content
+    image: /images/website banner one-e242b5fb.jpg
+    image_alt: Please pick a category
   - content: |
       ![](/images/website%20banner%20one-3e9bf538.jpg)
     actions: []
@@ -48,12 +54,6 @@ sections:
     type: section_cta
     title: We have cakes
     subtitle: 'for different Themes, Occasions & Functions'
-  - title: We have CAKES for all occasions...
-    image_position: left
-    actions: []
-    type: section_content
-    image: /images/website banner one-e242b5fb.jpg
-    image_alt: Please pick a category
 seo:
   title: ''
   description: ''
