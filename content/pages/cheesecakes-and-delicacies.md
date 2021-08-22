@@ -29,7 +29,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
-    title: Donuts Prices & Variants
+    title: Cheesecakes & Other Delicacies
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
