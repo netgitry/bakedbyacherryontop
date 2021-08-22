@@ -26,6 +26,23 @@ sections:
         title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
         image: images/9.jpg
         content: Medium inspired blogging theme for Unibit
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: Showcase
   description: This is the showcase page
