@@ -39,7 +39,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      # Please pick a category
+      ## Please pick a category
     actions: []
     type: section_content
     image: /images/website banner one-c8df9da5.jpg
