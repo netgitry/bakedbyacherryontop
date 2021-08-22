@@ -20,6 +20,7 @@ sections:
       *   Mini Cupcakes
     actions: []
     type: section_content
+    image: /images/sweet platter.png
 seo:
   title: ''
   description: ''
