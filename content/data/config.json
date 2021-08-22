@@ -13,7 +13,7 @@
                 "url": "/",
                 "style": "primary",
                 "has_subnav": false,
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Shop",
