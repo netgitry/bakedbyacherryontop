@@ -77,17 +77,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Cupcake Basket&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      This makes for an abslutely beautiful gift for almost any and all special
+      occasions
     actions: []
     type: section_content
     image: /images/A (15).png
