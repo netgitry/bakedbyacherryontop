@@ -877,6 +877,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Unicorn Cake.png
 seo:
   title: ''
   description: ''
