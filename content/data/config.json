@@ -126,7 +126,7 @@
                 "label": "Reviews",
                 "url": "/reviews",
                 "style": "primary",
-                "has_subnav": true,
+                "has_subnav": false,
                 "subnav_links": [
                     {
                         "label": "Showcase",
