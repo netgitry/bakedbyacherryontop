@@ -43,17 +43,14 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          ##### **Buttercream 2D topper Cupcakes** – R18 each
+
+          ##### **Buttercream 3D topper Cupcakes** – from R25 each\*\*
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
     type: section_grid
