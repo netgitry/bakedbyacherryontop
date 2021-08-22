@@ -72,8 +72,7 @@ sections:
     actions: []
     type: section_content
     image: /images/4 (1)-17da0157.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >-
