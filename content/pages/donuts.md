@@ -65,7 +65,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    image: /images/7x5 sunf.png
+    image: /images/how to train you 3d donuts.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
