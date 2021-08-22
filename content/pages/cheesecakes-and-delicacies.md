@@ -5,9 +5,9 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ## Custard-filled Donuts&#xA;
+      ## Cakesicles&#xA;
 
-      **R20 each**
+      **From R15 each.**
     actions: []
     type: section_content
     image: /images/7x5 sweets.png
