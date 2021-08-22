@@ -28,6 +28,7 @@ sections:
         actions: []
         type: grid_item
     type: section_grid
+    title: 'Cupcakes Prices and '
 seo:
   title: ''
   description: ''
