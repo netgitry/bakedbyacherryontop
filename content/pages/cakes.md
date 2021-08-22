@@ -14,7 +14,7 @@ sections:
     section_id: lorem-ipsum
     actions:
       - label: Birthdays
-        url: '#'
+        url: /birthdays
         style: primary
         icon_class: dev
         new_window: false
