@@ -6,6 +6,8 @@ sections:
     image_position: left
     content: |
       ### Beach themed cake
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Beach theme kitchen tea cake.png
