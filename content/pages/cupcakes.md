@@ -22,8 +22,7 @@ sections:
           *   Blueberry
         actions: []
         type: grid_item
-      - title: lorem-ipsum
-        title_url: lorem-ipsum
+      - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
           #### **Buttercream essenses – R120 per dozen**&#xA;
