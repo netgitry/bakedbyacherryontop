@@ -22,7 +22,7 @@ sections:
     type: section_content
     image: /images/sweet platter.png
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: ORDER ON WHATSAPP
     image_alt: lorem-ipsum
     image_position: left
     content: >
