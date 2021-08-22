@@ -6,9 +6,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ## Contact Us
-
-      ### We Love hearing from you!
+      We Love hearing from you!
 
       Michelle (Head Baker & Owner) | 076 257 1605
 
