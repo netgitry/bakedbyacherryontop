@@ -55,15 +55,14 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
+    content: |
       ## Baked Turkish delight and Crunchie cheesecake
-
-
-
 
       Deliciously Tasty Baked Turkish Delight and Crunchie Chocolate.
 
 
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/baked turkish delight and crunchie.png
