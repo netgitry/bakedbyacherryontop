@@ -14,6 +14,7 @@ sections:
     content: "## Batman\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R800\n"
     actions: []
     type: section_content
+    image: /images/good-aspen.png
 seo:
   title: ''
   description: ''
