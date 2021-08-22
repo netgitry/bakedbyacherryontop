@@ -2,35 +2,6 @@
 title: Cupcakes
 sections:
   - section_id: lorem-ipsum
-    col_number: two
-    grid_items:
-      - title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: |
-          #### **Donuts - Large**&#xA;
-
-          *   Custard filled donuts – R20 each
-
-          *   Assorted flavours – R150 a dozen
-
-          *   Cinnamon – R100 a dozen
-
-          *   3D Donuts – From R15 each
-        actions: []
-        type: grid_item
-      - title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: |
-          #### **Donuts – Mini**&#xA;
-
-          *   Box of 30 – R70 (half chocolate/half vanilla)
-
-          *   Add colour chocolate – R10 per box (per colour)
-        actions: []
-        type: grid_item
-    type: section_grid
-    title: Cheesecakes & Other Delicacies
-  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
