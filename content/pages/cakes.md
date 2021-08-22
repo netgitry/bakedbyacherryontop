@@ -46,7 +46,7 @@ sections:
   - title: 'We have different cakes for different Themes, Occasions & Functions'
     section_id: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Birthdays
         url: '#'
         style: link
         icon_class: dev
