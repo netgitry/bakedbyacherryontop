@@ -12,8 +12,7 @@ sections:
     subtitle: lorem-ipsum
     col_number: three
     grid_items:
-      - title: lorem-ipsum
-        title_url: lorem-ipsum
+      - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |
           ## **Buttercream – R100 per dozen**
