@@ -99,8 +99,7 @@ sections:
     actions: []
     type: section_content
     image: /images/Ballerina.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
