@@ -3,10 +3,6 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     col_number: three
-    grid_items: []
-    type: section_grid
-  - section_id: lorem-ipsum
-    col_number: three
     grid_items:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
