@@ -47,7 +47,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
-    image: /images/mermaid.png
+    image: /images/7x5 donuts.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
