@@ -10,7 +10,7 @@ sections:
       **R20 each**
     actions: []
     type: section_content
-    image: /images/7x5 donuts.png
+    image: /images/7x5 sweets.png
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
