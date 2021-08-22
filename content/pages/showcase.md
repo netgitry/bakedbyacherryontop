@@ -10,10 +10,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: >
-      ## We did it AGAIN!!!
-
-
-      ## 7de Laan's 5000th Episode
+      ## We did it AGAIN!!! 7de Laan's 5000th Episode
 
 
       This time we celebrated with a beautifully baked number 5000 individual
