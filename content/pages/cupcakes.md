@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: Cupcake Prices and Flavour
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
