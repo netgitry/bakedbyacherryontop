@@ -101,11 +101,12 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
+    content: |
       ## The Cookie Monster
 
       \*Price will be quoted upon request
 
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/1E00E25F-269E-4016-BFEA-961E7EC9DDBC.JPG
