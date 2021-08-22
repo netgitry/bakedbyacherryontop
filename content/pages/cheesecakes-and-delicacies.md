@@ -63,6 +63,7 @@ sections:
       Cheesecake- this is for you!
     actions: []
     type: section_content
+    image: /images/Baked choc cheesecake.png
 seo:
   title: ''
   description: ''
