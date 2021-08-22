@@ -41,6 +41,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/thoughtful-jupiter.png
 seo:
   title: Showcase
   description: This is the showcase page
