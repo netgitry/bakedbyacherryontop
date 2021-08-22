@@ -73,7 +73,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "## Harry Potter\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R1150\n\n<!---->\n\n*   **\\* Cake topper sold seperately**\n\n*   **\\* Must be ordered atleast 7 days prior.**\n"
+    content: "## Harry Potter\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R1150\n\n<!---->\n\n*   **\\* Cake topper sold seperately**\n\n*   **\\* Must be ordered atleast 7 days prior.**\n\n#### ****[Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;\n"
     actions: []
     type: section_content
     image: /images/A (73).png
