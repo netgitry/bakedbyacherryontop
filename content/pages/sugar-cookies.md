@@ -431,7 +431,7 @@ sections:
     content: |+
       ## Paint your own - Easter
 
-      Blessed feast/festival
+      \*Price will be quoted upon request
 
     actions: []
     type: section_content
