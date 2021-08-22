@@ -54,8 +54,7 @@ sections:
         type: grid_item
     type: section_grid
     title: Cupcakes Prices and Flavour
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
