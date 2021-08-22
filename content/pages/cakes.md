@@ -33,7 +33,7 @@ sections:
         type: action
       - label: Weddings
         url: '#'
-        style: secondary
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
