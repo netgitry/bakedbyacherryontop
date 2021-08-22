@@ -215,6 +215,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/723D0627-FB13-4436-98AF-A344100E5073.JPG
 seo:
   title: ''
   description: ''
