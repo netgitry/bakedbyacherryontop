@@ -21,6 +21,7 @@ sections:
     actions: []
     type: section_content
     image: /images/WhatsApp Image 2021-01-28 at 7.13.30 AM.jpeg
+    title: We did it AGAIN!!!
   - title: We had the opportunity to bake for 7de Laan
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
