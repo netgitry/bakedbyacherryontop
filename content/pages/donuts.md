@@ -40,8 +40,7 @@ sections:
     actions: []
     type: section_content
     image: /images/7x5 donuts.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >
