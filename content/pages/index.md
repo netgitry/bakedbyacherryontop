@@ -10,7 +10,7 @@ sections:
 
     actions:
       - label: See Some of our latest creations & Featured Cakes
-        url: /docs
+        url: /showcase
         style: primary
   - section_id: features
     type: section_grid
