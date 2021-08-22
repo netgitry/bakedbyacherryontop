@@ -16,7 +16,7 @@ sections:
 
     actions:
       - label: Enter our cake section for a delicious variety of cakes
-        url: '#'
+        url: /cakes
         style: primary
         icon_class: dev
         new_window: false
