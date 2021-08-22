@@ -41,7 +41,7 @@ sections:
       - label: Click here to watch the 7de Laan episode featuring our creation
         url: >-
           https://www.viu.com/ott/za/en/all/video-english-drama-tv_shows-7de_laan_s21_ep_249_thurs_1_oct-1165792455?containerId=playlist-26269447&utm_source=org_socialsharing
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
