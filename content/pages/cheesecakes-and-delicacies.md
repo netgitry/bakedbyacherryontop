@@ -22,7 +22,7 @@ sections:
       Lovers, Dream Party Snack.
     actions: []
     type: section_content
-    image: /images/how to train you 3d donuts.png
+    image: /images/Caramel.png
 seo:
   title: ''
   description: ''
