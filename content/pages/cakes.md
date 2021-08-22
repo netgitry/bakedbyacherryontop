@@ -7,10 +7,6 @@ sections:
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
     image_alt: Please pick a category
-  - content: |
-      ![](/images/website%20banner%20one-3e9bf538.jpg)
-    actions: []
-    type: section_hero
   - title: We have CAKES for all occasions...
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
