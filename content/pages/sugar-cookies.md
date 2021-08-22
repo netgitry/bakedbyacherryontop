@@ -59,6 +59,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/4 (1).png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
