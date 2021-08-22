@@ -18,7 +18,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "Frozen\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R500\n\n**\\*~~Non-edible figurines**\n\n**\\*~~To be ordered 10 days prior**\n"
+    content: "# Frozen\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R500\n\n**\\*~~Non-edible figurines**\n\n**\\*~~To be ordered 10 days prior**\n"
     actions: []
     type: section_content
     image: /images/A (4).png
