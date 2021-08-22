@@ -38,6 +38,8 @@ sections:
     image_position: left
     content: |
       ### Wedding Cake
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/A (130).png
