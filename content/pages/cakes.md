@@ -6,7 +6,6 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
-    image_alt: Please pick a category
   - title: We have CAKES for all occasions...
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
