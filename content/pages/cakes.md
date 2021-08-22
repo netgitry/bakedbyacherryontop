@@ -60,7 +60,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Baby Shower & gender reveal
+      - label: Baby Shower & Gender reveal
         url: '#'
         style: link
         icon_class: dev
