@@ -38,7 +38,7 @@ sections:
 
       ###### We look forward to baking your wedding cake
     actions:
-      - label: lorem-ipsum
+      - label: CLick here to watch
         url: '#'
         style: link
         icon_class: dev
