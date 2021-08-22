@@ -57,23 +57,6 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ## Mermaid
-
-      Beautiful Turquoise and purple Mermaid Cupcakes.
-    actions:
-      - label: Order on Whatsapp
-        url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_content
-    image: /images/mermaid.png
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
     content: >
       ## Cupcake Basket&#xA;
 
