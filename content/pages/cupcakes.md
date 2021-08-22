@@ -74,8 +74,13 @@ sections:
       ## Cupcake Basket&#xA;
 
 
-      This makes for an abslutely beautiful gift for almost any and all special
+      This makes for an absolutely beautiful gift for almost any and all special
       occasions
+
+
+
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/A (15).png
