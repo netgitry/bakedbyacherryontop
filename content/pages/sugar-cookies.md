@@ -240,11 +240,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
-      Colorful Number 3
+    content: |
+      ## Colorful Number 3
 
       \*Price will be quoted upon request
-
     actions: []
     type: section_content
     image: /images/IMG-5056.jpg
