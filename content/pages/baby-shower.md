@@ -33,9 +33,9 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ## Unicorn Baby shower
+      ### Unicorn Baby shower Girl Cake
 
-      ## Girl Cake&#xA;&#xA;
+      ## &#xA;&#xA;
     actions: []
     type: section_content
     image: /images/A (12).png
