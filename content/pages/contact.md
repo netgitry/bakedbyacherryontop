@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Contact us on WHATSAPP
         url: 'https://wa.me/message/WYKY5SMM27SEH1'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
