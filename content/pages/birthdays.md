@@ -866,10 +866,13 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
+    content: |+
       ## Pokemon Cake
 
       Price to be quoted upon request
+
+      [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)
+
     actions: []
     type: section_content
     image: /images/19.png
