@@ -44,6 +44,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Carrot and cheesecake.png
 seo:
   title: ''
   description: ''
