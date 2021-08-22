@@ -70,7 +70,7 @@
                     },
                     {
                         "label": "Sugar Cookies",
-                        "url": "#",
+                        "url": "/sugar-cookies",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
