@@ -436,13 +436,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
-      Cute Coffee Cookies
+    content: |
+      ## Cute Coffee Cookies
 
       \*Price will be quoted upon request
-
-
-
     actions: []
     type: section_content
     image: /images/IMG-6270.jpg
