@@ -49,6 +49,7 @@ sections:
     content: "## Floral Macaroon Cake&#xA;\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R750\\*\n"
     actions: []
     type: section_content
+    image: /images/A (8).png
 seo:
   title: ''
   description: ''
