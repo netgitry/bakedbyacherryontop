@@ -62,7 +62,7 @@ sections:
 
       Beautiful Turquoise and purple Mermaid Cupcakes.
     actions:
-      - label: Order on WHatsapp
+      - label: Order on Whatsapp
         url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
         style: primary
         icon_class: dev
