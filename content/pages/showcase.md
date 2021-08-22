@@ -38,7 +38,7 @@ sections:
 
       ###### We look forward to baking your wedding cake
     actions:
-      - label: CLick here to watch the 7de Laan episode featuring our Creation
+      - label: CLick here to watch the 7de Laan episode featuring our creation
         url: '#'
         style: link
         icon_class: dev
