@@ -80,7 +80,7 @@ sections:
 
     actions:
       - label: Enter all our delicious all-sors secion
-        url: /cheesecakes-and-Delicacies
+        url: /cheesecakes-and-delicacies
         style: primary
         icon_class: dev
         new_window: false
