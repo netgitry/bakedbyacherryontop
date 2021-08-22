@@ -12,7 +12,8 @@
                 "label": "Home",
                 "url": "/",
                 "style": "primary",
-                "has_subnav": false
+                "has_subnav": false,
+                "new_window": true
             },
             {
                 "label": "Shop",
