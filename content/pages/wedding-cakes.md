@@ -71,6 +71,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/A (130).png
 seo:
   title: ''
   description: ''
