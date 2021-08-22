@@ -95,8 +95,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ### Cute Girly Pirate Themed Cupcakes&#xA;&#xA;
+    content: >
+      ### Cute Girly Pirate Themed Cupcakes
+
+
+      #### [Order On
+      Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Cute Pirate.png
