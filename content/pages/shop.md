@@ -59,7 +59,7 @@ sections:
 
     actions:
       - label: Enter our donut section and have a look for yourself!
-        url: '#'
+        url: /donuts
         style: link
         icon_class: dev
         new_window: false
