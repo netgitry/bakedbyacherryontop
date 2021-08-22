@@ -43,8 +43,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ## Carrot & Cheesecake&#xA;&#xA;
+    content: >
+      ## Carrot & Cheesecake
+
+
+      #### [Order On
+      Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Carrot and cheesecake.png
