@@ -11,6 +11,7 @@ sections:
       ###### **as we run specials throughout the year.**
     actions: []
     type: section_content
+    image: /images/website banner one-b5884c53.jpg
 seo:
   title: ''
   description: ''
