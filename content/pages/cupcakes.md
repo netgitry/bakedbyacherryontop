@@ -40,8 +40,7 @@ sections:
           Condense milk, Cookie and cream
         actions: []
         type: grid_item
-      - title: lorem-ipsum
-        title_url: lorem-ipsum
+      - title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: |+
           ##### **Buttercream 2D topper Cupcakes** – R18 each
