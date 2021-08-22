@@ -43,6 +43,7 @@ sections:
       ## Baked Turkish delight and Crunchie cheesecake&#xA;&#xA;
     actions: []
     type: section_content
+    image: /images/baked turkish delight and crunchie.png
 seo:
   title: ''
   description: ''
