@@ -143,6 +143,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Cute Pirate.png
 seo:
   title: ''
   description: ''
