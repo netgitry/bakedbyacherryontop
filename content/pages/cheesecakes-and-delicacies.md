@@ -38,8 +38,15 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ## Baked Turkish delight and Crunchie cheesecake&#xA;&#xA;
+    content: |+
+      ## Baked Turkish delight and Crunchie cheesecake
+
+
+
+
+      Deliciously Tasty Baked Turkish Delight and Crunchie Chocolate.
+
+
     actions: []
     type: section_content
     image: /images/baked turkish delight and crunchie.png
