@@ -6,8 +6,7 @@ sections:
     image: images/5.jpg
     content: This is an optional page subtitle
     title: Showcase of some of our latest Creations & Features
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >
