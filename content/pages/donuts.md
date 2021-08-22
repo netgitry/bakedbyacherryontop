@@ -44,17 +44,12 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## How to Train your Dragon 3D Donuts themed&#xA;&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      This Cute Theme is absolutely Every How to train your Dragon And Donut
+      Lovers, Dream Party Snack.
     actions: []
     type: section_content
     image: /images/how to train you 3d donuts.png
