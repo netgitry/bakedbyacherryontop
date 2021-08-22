@@ -52,7 +52,7 @@
                     },
                     {
                         "label": "Cheesecakes & other Delicasies",
-                        "url": "#",
+                        "url": "/cheesecakes-",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
