@@ -28,17 +28,17 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      **We had the honor & priviledge to bake a cake for an episode of 7de
+      Laan**
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      *It was truely the highlight of my career thus far and has opened so many
+      doors for us*
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      ###### We look forward to baking your wedding cake
     actions: []
     type: section_content
     image: /images/thoughtful-jupiter.png
