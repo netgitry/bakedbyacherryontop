@@ -137,7 +137,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/contact-us",
+                "url": "/contact",
                 "style": "primary",
                 "has_subnav": false
             }
