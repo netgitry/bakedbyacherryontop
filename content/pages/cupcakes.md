@@ -103,7 +103,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      ## Cute Girly Pirate Themed Cupcakes&#xA;&#xA;
+      ### Cute Girly Pirate Themed Cupcakes&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Cute Pirate.png
