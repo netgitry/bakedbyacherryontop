@@ -42,7 +42,7 @@ sections:
         type: action
       - label: Baby Showers & Gender reveal
         url: '#'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
