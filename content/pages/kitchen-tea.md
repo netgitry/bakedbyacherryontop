@@ -5,7 +5,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      Beach themed cake
+      ### Beach themed cake
     actions: []
     type: section_content
     image: /images/Beach theme kitchen tea cake.png
