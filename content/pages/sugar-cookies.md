@@ -216,6 +216,23 @@ sections:
     actions: []
     type: section_content
     image: /images/723D0627-FB13-4436-98AF-A344100E5073.JPG
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    image_position: left
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
 seo:
   title: ''
   description: ''
