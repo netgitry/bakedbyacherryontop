@@ -24,13 +24,20 @@ sections:
         type: grid_item
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
+        content: |
           #### **Buttercream essenses – R120 per dozen**&#xA;
 
+          Orange, Lemon, Caramel, Tutti frutti, 
 
-          Orange, Lemon, Caramel, Tutti frutti, Bubblegum, Pineapple Coconut,
-          Amarula, Chocolate, Blueberry, Candyfloss, Strawberry, Unicorn, Peach,
-          Hazelnut, Lime, Cherry, Condense milk, Cookie and cream
+          Bubblegum, Pineapple Coconut, 
+
+          Amarula, Chocolate, Blueberry, 
+
+          Candyfloss, Strawberry, Unicorn, 
+
+          Peach, Hazelnut, Lime, Cherry, 
+
+          Condense milk, Cookie and cream
         actions: []
         type: grid_item
     type: section_grid
