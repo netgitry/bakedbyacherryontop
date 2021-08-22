@@ -111,19 +111,6 @@ sections:
     actions: []
     type: section_content
     image: /images/Superhero.png
-  - title: ORDER ON WHATSAPP
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    actions:
-      - label: Whatsapp
-        url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
-        style: primary
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
-    type: section_content
 seo:
   title: ''
   description: ''
