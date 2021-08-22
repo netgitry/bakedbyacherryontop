@@ -37,7 +37,7 @@ sections:
 
     actions:
       - label: Enter our cupcake section for a selection of beautiful cupcakes
-        url: /c
+        url: /cupcakes
         style: primary
         icon_class: dev
         new_window: false
