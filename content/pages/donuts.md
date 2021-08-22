@@ -34,7 +34,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      #### Custard-filled Donuts&#xA;
+      ## Custard-filled Donuts&#xA;
 
       **R20 each**
     actions: []
