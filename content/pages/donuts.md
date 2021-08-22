@@ -30,8 +30,7 @@ sections:
         type: grid_item
     type: section_grid
     title: Donuts Prices & Variants
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: |
