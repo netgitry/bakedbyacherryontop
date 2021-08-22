@@ -25,17 +25,13 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # Savoury & Sweet Platters
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Delicious Platters for all occasions. Whether you need basic platers or
+      custom created platters, we can assist in creating the Right platter for
+      you!
     actions: []
     type: section_content
 seo:
