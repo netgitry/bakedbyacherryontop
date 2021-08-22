@@ -120,17 +120,11 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |+
+      ## Medical 
 
+      \*Price will be quoted upon request
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     image: /images/64D27AE1-7932-4CEC-B6B6-8FD37FBC13EC.JPG
