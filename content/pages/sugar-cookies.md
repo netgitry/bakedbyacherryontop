@@ -233,6 +233,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/15911846-4ef8-4996-8bbb-c416897ac7f0.JPG
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
