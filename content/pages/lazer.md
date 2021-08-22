@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - title: SPECIALS
+  - title: Lazer Ite
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
