@@ -108,7 +108,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
-  - title: lorem-ipsum
+  - title: ORDER ON WHATSAPP
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
