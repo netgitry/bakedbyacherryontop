@@ -71,6 +71,7 @@ sections:
       \*Price will be quoted upon request
     actions: []
     type: section_content
+    image: /images/4 (1)-17da0157.png
 seo:
   title: ''
   description: ''
