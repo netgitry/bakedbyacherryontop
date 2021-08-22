@@ -113,7 +113,7 @@
             },
             {
                 "label": "Laser engravings",
-                "url": "#",
+                "url": "/lazer",
                 "style": "primary",
                 "icon_class": "dev",
                 "new_window": false,
