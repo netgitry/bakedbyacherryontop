@@ -99,7 +99,7 @@ sections:
       want to entertain...
 
     actions:
-      - label: Head over o our platter section
+      - label: Head over to our platter section
         url: '#'
         style: primary
         icon_class: dev
