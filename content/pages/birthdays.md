@@ -25,7 +25,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "# Gold, Black and White cake\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R600\n\n***~~Topper***\n"
+    content: "## Gold, Black and White cake\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R600\n\n***~~Topper***\n"
     actions: []
     type: section_content
     image: /images/A (5).png
