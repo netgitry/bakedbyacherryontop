@@ -471,13 +471,10 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
-      Easter
+    content: |
+      ## Easter
 
       Blessed feast/festival
-
-
-
     actions: []
     type: section_content
     image: /images/IMG-5435.jpg
