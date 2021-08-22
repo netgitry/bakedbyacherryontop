@@ -1,9 +1,7 @@
 ---
 title: Cakes
 sections:
-  - title: >-
-      We have CAKES for all occasions...                          Please pick a
-      category
+  - title: "We have CAKES for all occasions...\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Please pick a category"
     image_position: left
     actions: []
     type: section_content
