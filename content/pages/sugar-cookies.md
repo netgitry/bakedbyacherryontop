@@ -465,7 +465,7 @@ sections:
     content: |+
       ## Beer With Ice
 
-      Blessed feast/festival
+      \*Price will be quoted upon request
 
     actions: []
     type: section_content
