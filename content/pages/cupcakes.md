@@ -71,6 +71,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/mermaid.png
 seo:
   title: ''
   description: ''
