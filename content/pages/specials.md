@@ -7,7 +7,7 @@ sections:
     content: |
       # Specials
 
-      ## Please check back soon as we have specials throughout the year!
+      #### Please check back soon as we have specials throughout the year!
     actions: []
     type: section_content
     image: /images/website banner one-d037e09d.jpg
