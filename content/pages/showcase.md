@@ -10,17 +10,18 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      # We did it AGAIN!!!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      ## 7de Laan's 5000th Episode
 
 
-      - Lorem ipsum
+      This time we celebrated with a beautifully baked number 5000 individual
+      cakes
 
-      - dolor sit amet
+
+      ###### CONGRATS on 5000 Episodes!!!
     actions: []
     type: section_content
     image: /images/WhatsApp Image 2021-01-28 at 7.13.30 AM.jpeg
