@@ -390,6 +390,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/A (21).png
 seo:
   title: ''
   description: ''
