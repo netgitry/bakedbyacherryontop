@@ -113,7 +113,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     actions:
-      - label: lorem-ipsum
+      - label: Whatsapp
         url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
         style: link
         icon_class: dev
