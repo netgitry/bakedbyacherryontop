@@ -77,6 +77,9 @@ sections:
       Delicious and Perfect for any and all Functions, Elegant enough for
       weddings and Playful enough for Parties, As long as you love Chocolate and
       Cheesecake- this is for you!
+
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/Baked choc cheesecake.png
