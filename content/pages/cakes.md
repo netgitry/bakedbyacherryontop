@@ -46,6 +46,7 @@ sections:
         no_follow: false
         type: action
     type: section_cta
+    title: We have cakes
   - title: We have CAKES for all occasions...
     image_position: left
     actions: []
