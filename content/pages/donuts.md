@@ -28,18 +28,6 @@ sections:
           *   Add colour chocolate – R10 per box (per colour)
         actions: []
         type: grid_item
-      - title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: |+
-          ##### **Buttercream 2D topper Cupcakes** – R18 each
-
-          ##### **Buttercream 3D topper Cupcakes** – from R25 each\*\*
-
-
-
-
-        actions: []
-        type: grid_item
     type: section_grid
     title: Donuts Prices & Variants
   - title: lorem-ipsum
