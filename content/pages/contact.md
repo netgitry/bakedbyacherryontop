@@ -24,7 +24,7 @@ sections:
         type: action
       - label: Find us on GOOGLE MAPS
         url: 'https://goo.gl/maps/s2CQnjNqG15DAjaC9'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
