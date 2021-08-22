@@ -25,7 +25,7 @@
                 "subnav_links": [
                     {
                         "label": "Cakes",
-                        "url": "#",
+                        "url": "/cakes",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
