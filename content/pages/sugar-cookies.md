@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: A beautiful Collection of our baked       Sugar Cookies
 sections: []
 seo:
   title: ''
