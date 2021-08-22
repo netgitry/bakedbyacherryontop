@@ -51,6 +51,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/website banner one-c8df9da5.jpg
 seo:
   title: ''
   description: ''
