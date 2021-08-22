@@ -443,7 +443,7 @@ sections:
     content: |+
       ## Cute Vegetables
 
-      Blessed feast/festival
+      \*Price will be quoted upon request
 
     actions: []
     type: section_content
