@@ -21,7 +21,7 @@ sections:
     actions: []
     type: section_content
     image: /images/WhatsApp Image 2021-01-28 at 7.13.30 AM.jpeg
-    title: We did it AGAIN!!!
+    title: "We did it AGAIN!!!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ 7de Laan's 5000th Episode"
   - title: We had the opportunity to bake for 7de Laan
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
