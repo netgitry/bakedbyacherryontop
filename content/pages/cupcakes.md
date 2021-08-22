@@ -64,7 +64,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: 'https://bakedbyacherryontop.co.za/https//wa.me/message/WYKY5SMM27'
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
