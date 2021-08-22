@@ -6,16 +6,6 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-e242b5fb.jpg
-  - title: We have CAKES for all occasions...
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    image_position: left
-    content: |
-      ## Please pick a category&#xA;&#xA;
-
-      *
-    actions: []
-    type: section_content
   - section_id: Birthdays
     actions:
       - label: Birthdays
