@@ -26,6 +26,7 @@ sections:
       ## Baked Crunchie cheesecake&#xA;&#xA;
     actions: []
     type: section_content
+    image: /images/Crunchie tart.png
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
