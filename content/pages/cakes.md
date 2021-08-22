@@ -45,7 +45,6 @@ sections:
     subtitle: 'for different Themes, Occasions & Functions'
   - title: 'We have different cakes for different Themes, Occasions & Functions'
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions:
       - label: lorem-ipsum
         url: '#'
