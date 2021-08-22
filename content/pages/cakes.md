@@ -40,7 +40,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Baby S
+      - label: Baby Showers & Gender
         url: '#'
         style: link
         icon_class: dev
