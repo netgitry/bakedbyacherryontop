@@ -112,7 +112,7 @@ sections:
   - title: Cookies
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    image_position: left
+    image_position: right
     content: |
       ## **Sugar Cookies**
 
