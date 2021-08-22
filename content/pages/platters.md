@@ -1,5 +1,5 @@
 ---
-title: PLatters
+title: Platters
 sections: []
 seo:
   title: ''
