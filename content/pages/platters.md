@@ -38,7 +38,7 @@ sections:
           Savoury & Sweet Platters Delicious Platters for all occasions. Whether
           you need basic platers or custom created platters, we can assist in
           creating the Right platter for you!
-        style: link
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
