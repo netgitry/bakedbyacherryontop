@@ -118,7 +118,7 @@ sections:
       *   Some of our beautifully baked, themed Sugar Cookies.
     actions:
       - label: Head over to our cookies section
-        url: '#'
+        url: /cookies
         style: primary
         icon_class: dev
         new_window: false
