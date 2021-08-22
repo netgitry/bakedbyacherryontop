@@ -35,7 +35,7 @@ sections:
         no_follow: false
         type: action
       - label: Kitchen Tea
-        url: '#/kitchen-tea'
+        url: /kitchen-tea
         style: primary
         icon_class: dev
         new_window: false
