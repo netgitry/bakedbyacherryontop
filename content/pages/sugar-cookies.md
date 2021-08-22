@@ -88,11 +88,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
+    content: |
       ## Paint your own - Lama
 
       \*Price will be quoted upon request
 
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/0F8D5D48-0CB3-43D1-B555-79579D9DD0B3.JPG
