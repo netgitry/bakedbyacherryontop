@@ -51,7 +51,7 @@
                         "type": "action"
                     },
                     {
-                        "label": "Cheesecakes & other Delicasies",
+                        "label": "Cheesecakes & other Delicacies",
                         "url": "/cheesecakes-and-delicacies",
                         "style": "link",
                         "icon_class": "dev",
