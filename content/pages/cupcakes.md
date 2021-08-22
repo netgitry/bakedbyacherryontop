@@ -68,17 +68,10 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Sunflower Cupcakes
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Beautiful summer and sunny, sunflower themed cupcakes.
     actions: []
     type: section_content
     image: /images/7x5 sunf.png
