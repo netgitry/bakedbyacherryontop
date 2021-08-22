@@ -40,7 +40,7 @@ sections:
         type: action
       - label: Kitchen Tea
         url: '#'
-        style: secondary
+        style: primary
         icon_class: dev
         new_window: false
         no_follow: false
