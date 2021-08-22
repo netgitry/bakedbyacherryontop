@@ -2,7 +2,7 @@
 title: Cupcakes
 sections:
   - section_id: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items:
       - title_url: lorem-ipsum
         image_alt: lorem-ipsum
