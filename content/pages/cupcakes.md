@@ -161,6 +161,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: /images/Superhero.png
 seo:
   title: ''
   description: ''
