@@ -1,11 +1,6 @@
 ---
 title: Cakes
 sections:
-  - title: "We have CAKES for all occasions...\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Please pick a category"
-    image_position: left
-    actions: []
-    type: section_content
-    image: /images/website banner one-e242b5fb.jpg
   - section_id: Birthdays
     actions:
       - label: Birthdays
