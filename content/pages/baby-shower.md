@@ -51,7 +51,7 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      Angel Baby
+      ## Angel Baby
     actions: []
     type: section_content
     image: /images/A (82).png
