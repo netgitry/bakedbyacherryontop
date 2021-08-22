@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - title: Contact Us
-    section_id: lorem-ipsum
+    section_id: ind us on GOOGLE MAPS
     image_alt: lorem-ipsum
     image_position: left
     content: |
