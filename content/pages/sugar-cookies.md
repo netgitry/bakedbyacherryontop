@@ -509,11 +509,9 @@ sections:
     image_alt: lorem-ipsum
     image_position: left
     content: |+
-      ## Blessed Festial 
+      ## Blessed Festial
 
-      Blessed feast/festival
-
-
+      \*Price will be quoted upon request
 
     actions: []
     type: section_content
