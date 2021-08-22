@@ -451,10 +451,11 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
+    content: |+
       ## Easter
 
-      Blessed feast/festival
+      \*Price will be quoted upon request
+
     actions: []
     type: section_content
     image: /images/IMG-5435.jpg
