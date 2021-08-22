@@ -26,7 +26,7 @@ sections:
         type: action
       - label: Baby Showers & Gender Reveal
         url: '#'
-        style: primary
+        style: link
         icon_class: dev
         new_window: false
         no_follow: false
