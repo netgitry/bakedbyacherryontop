@@ -30,7 +30,7 @@ sections:
         type: grid_item
     type: section_grid
     title: Donuts Prices & Variants
-  - title: lorem-ipsum
+  - title: ORDER ON WHATSAPP
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
