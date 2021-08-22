@@ -25,17 +25,13 @@ sections:
       - title: lorem-ipsum
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          #### **Buttercream essenses – R120 per dozen**&#xA;
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Orange, Lemon, Caramel, Tutti frutti, Bubblegum, Pineapple Coconut,
+          Amarula, Chocolate, Blueberry, Candyfloss, Strawberry, Unicorn, Peach,
+          Hazelnut, Lime, Cherry, Condense milk, Cookie and cream
         actions: []
         type: grid_item
     type: section_grid
