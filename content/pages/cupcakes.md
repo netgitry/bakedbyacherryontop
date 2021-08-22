@@ -7,7 +7,6 @@ sections:
     grid_items: []
     type: section_grid
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     grid_items:
       - title_url: lorem-ipsum
