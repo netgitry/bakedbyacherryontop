@@ -52,7 +52,14 @@ sections:
           are getting the perfect tantalizing taste that comes with biting into
           one of our yummy donuts.
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         image: /images/nervous-cedar.png
   - section_id: text-img
     type: section_content
