@@ -38,7 +38,7 @@ sections:
           tastebuds will go on a adventure.
 
         actions:
-          - label: lorem-ipsum
+          - label: Shop Cupcakes
             url: /cupcakes
             style: link
             icon_class: dev
