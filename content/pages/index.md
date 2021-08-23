@@ -54,7 +54,7 @@ sections:
 
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: /donuts
             style: link
             icon_class: dev
             new_window: false
