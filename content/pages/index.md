@@ -96,7 +96,7 @@ sections:
         style: primary
 seo:
   title: Baked by a Cherry on Top
-  description: The preview of the Libris theme
+  description: Homemade confectionery...for every occasion
   extra:
     - name: 'og:type'
       value: website
