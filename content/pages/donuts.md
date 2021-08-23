@@ -1,7 +1,7 @@
 ---
 title: Cupcakes
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Donuts prices and Varians
     col_number: two
     grid_items:
       - title_url: lorem-ipsum
