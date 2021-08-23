@@ -22,7 +22,14 @@ sections:
           get you the most delicious & moist cakes. We do not believe in dry &
           tasteless cakes, so you are guaranteed freshness in every order.
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         image: /images/7x5 CAK.png
       - title: Cupcakes
         content: >+
