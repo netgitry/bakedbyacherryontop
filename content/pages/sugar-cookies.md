@@ -182,6 +182,8 @@ sections:
       Super Dad Father's day
 
       \*Price will be quoted upon request
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/15911846-4ef8-4996-8bbb-c416897ac7f0.JPG
