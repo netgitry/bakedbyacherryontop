@@ -23,7 +23,7 @@ sections:
           tasteless cakes, so you are guaranteed freshness in every order.
 
         actions:
-          - label: Cakes
+          - label: Shop Cakes
             url: '#'
             style: link
             icon_class: dev
