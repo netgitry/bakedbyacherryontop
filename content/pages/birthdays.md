@@ -447,6 +447,7 @@ sections:
       [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)
     actions: []
     type: section_content
+    image: /images/IMG_20210509_200048_597.jpg
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
