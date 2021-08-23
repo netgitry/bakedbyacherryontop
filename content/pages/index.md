@@ -25,7 +25,7 @@ sections:
         actions:
           - label: Shop Cakes
             url: /Cakes
-            style: primary
+            style: secondary
             icon_class: dev
             new_window: false
             no_follow: false
