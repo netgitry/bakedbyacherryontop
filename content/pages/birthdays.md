@@ -497,6 +497,7 @@ sections:
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
+    image: /images/IMG_20210509_191515_229.jpg
 seo:
   title: ''
   description: ''
