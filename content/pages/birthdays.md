@@ -411,10 +411,13 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |
-      ## John Deere&#xA;&#xA;
+    content: |+
+      ## John Deere
 
       Price to be quoted upon request
+
+
+
     actions: []
     type: section_content
     image: /images/9.png
