@@ -38,7 +38,7 @@ sections:
 
       **R20 each**
 
-      ## [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)
     actions: []
     type: section_content
     image: /images/7x5 donuts.png
