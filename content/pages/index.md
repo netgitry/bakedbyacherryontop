@@ -37,7 +37,14 @@ sections:
           occasion. There is so many flavours to choose from, that your
           tastebuds will go on a adventure.
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
         image: /images/116292291_1008722379562799_3617305661367600546_o.jpg
       - title: Donuts
         content: >+
