@@ -533,8 +533,7 @@ sections:
     actions: []
     type: section_content
     image: /images/threed hemet cake.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: "## Life size guitar cake&#xA;&#xA;\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R2500\n"
