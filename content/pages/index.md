@@ -24,7 +24,7 @@ sections:
 
         actions:
           - label: Shop Cakes
-            url: '#'
+            url: /Cakes
             style: link
             icon_class: dev
             new_window: false
