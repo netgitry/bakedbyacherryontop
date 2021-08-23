@@ -53,7 +53,7 @@ sections:
           one of our yummy donuts.
 
         actions:
-          - label: lorem-ipsum
+          - label: Shop Donuts
             url: /donuts
             style: link
             icon_class: dev
