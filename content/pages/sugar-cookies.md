@@ -123,11 +123,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
+    content: |
       ## Llama
 
       \*Price will be quoted upon request
 
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/34D8AE50-F8CA-4D3B-96E1-01297C3B2425.JPG
