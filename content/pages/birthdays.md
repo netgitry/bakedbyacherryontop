@@ -515,8 +515,7 @@ sections:
     actions: []
     type: section_content
     image: /images/toothless night fury cake.png
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: "## 3D Helmet Cake\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R1150\n"
