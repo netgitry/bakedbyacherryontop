@@ -95,7 +95,7 @@ sections:
         url: /contact-us
         style: primary
 seo:
-  title: Stackbit Libris Theme
+  title: Baked by a Cherry on Top
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
