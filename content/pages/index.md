@@ -23,7 +23,7 @@ sections:
           tasteless cakes, so you are guaranteed freshness in every order.
 
         actions:
-          - label: lorem-ipsum
+          - label: Cakes
             url: '#'
             style: link
             icon_class: dev
