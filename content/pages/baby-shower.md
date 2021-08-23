@@ -31,8 +31,6 @@ sections:
     content: |
       ## **Baby Girl Cake**
 
-      ***
-
       #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
 
       ## &#xA;&#xA;
