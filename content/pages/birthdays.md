@@ -116,7 +116,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: "## Lawyers Cake&#xA;\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R1200\\*\n\nhttps://wa.me/message/WYKY5SMM27SEH1\n"
+    content: "## Lawyers Cake&#xA;\n\n*   **Standard size:**\_20cm (Serves 10 people)\n\n*   **Standard flavours:**\_Chocolate / Vanilla\n\n*   **Pricing from:**\_R1200\\*\n\nOrder On Whatsapp\n\n"
     actions: []
     type: section_content
     image: /images/A (20).png
