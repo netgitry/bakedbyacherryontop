@@ -472,6 +472,7 @@ sections:
 
     actions: []
     type: section_content
+    image: /images/IMG_20210509_194524_424.jpg
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
