@@ -155,11 +155,12 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
-    content: |+
+    content: |
       ## Painter
 
       \*Price will be quoted upon request
 
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/657C8BF2-E3CA-46B9-AEDA-C1818F5482D1.JPG
