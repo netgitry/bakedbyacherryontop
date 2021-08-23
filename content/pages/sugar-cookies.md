@@ -149,6 +149,8 @@ sections:
       ## Mustang
 
       \*Price will be quoted upon request
+
+      #### [Order On Whatsapp](https://wa.me/message/WYKY5SMM27SEH1)&#xA;&#xA;
     actions: []
     type: section_content
     image: /images/587A9265-6BB4-4AA6-9F04-34C7C66208EC.JPG
