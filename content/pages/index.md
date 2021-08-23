@@ -39,7 +39,7 @@ sections:
 
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: /cupcakes
             style: link
             icon_class: dev
             new_window: false
