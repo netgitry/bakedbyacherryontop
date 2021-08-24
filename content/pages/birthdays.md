@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Bit
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
