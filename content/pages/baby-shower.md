@@ -1,7 +1,7 @@
 ---
 title: Baby Shower
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Bump
     image_alt: lorem-ipsum
     image_position: left
     content: |
