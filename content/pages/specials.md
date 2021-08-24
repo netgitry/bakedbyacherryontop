@@ -11,7 +11,6 @@ sections:
     actions: []
     type: section_content
     image: /images/website banner one-d037e09d.jpg
-    title: Specials
 seo:
   title: ''
   description: ''
