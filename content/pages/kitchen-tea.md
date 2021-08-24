@@ -1,5 +1,5 @@
 ---
-title: Ki
+title: Kichen
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
