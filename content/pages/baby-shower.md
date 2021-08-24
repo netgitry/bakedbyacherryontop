@@ -96,7 +96,7 @@ sections:
     type: section_content
     image: /images/A (71).png
   - section_id: Bunny
-    image_alt: lorem-ipsum
+    image_alt: Bunny Cake
     image_position: left
     content: >
       ### Bunny themed Baby Shower Cake
