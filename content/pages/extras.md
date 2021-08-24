@@ -1,16 +1,17 @@
 ---
-title: Specials
+title: Lazer
 sections:
-  - section_id: lorem-ipsum
+  - title: Extra's Items to be Uploaded Soon
+    section_id: Extra's
     image_alt: lorem-ipsum
     image_position: left
     content: |
-      # Specials
+      ###### **Please Check back regularly**
 
-      #### Please check back soon as we have specials throughout the year!
+      ######
     actions: []
     type: section_content
-    image: /images/website banner one-d037e09d.jpg
+    image: /images/website banner one-b5884c53.jpg
 seo:
   title: ''
   description: ''
