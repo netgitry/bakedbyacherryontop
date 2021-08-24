@@ -25,7 +25,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (11).png
-  - section_id: lorem-ipsum
+  - section_id: Girl
     image_alt: lorem-ipsum
     image_position: left
     content: |
