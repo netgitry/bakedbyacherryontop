@@ -2,7 +2,7 @@
 title: Baby Shower
 sections:
   - section_id: Bump
-    image_alt: lorem-ipsum
+    image_alt: baby Bump Cake
     image_position: left
     content: |
       ## Baby Bump&#xA;
