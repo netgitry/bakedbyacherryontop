@@ -38,7 +38,7 @@ sections:
     type: section_content
     image: /images/A (10).png
   - section_id: Unicorn
-    image_alt: Unicorn Baby shower Girl Cake
+    image_alt: Unicorn Girl Cake
     image_position: left
     content: >
       ### Unicorn Baby shower Girl Cake
