@@ -36,7 +36,7 @@ sections:
       ## &#xA;&#xA;
     actions: []
     type: section_content
-    image: /images/A (10).png
+    image: /images/A (10).pngUnicorn
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
