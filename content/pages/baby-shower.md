@@ -85,7 +85,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (60).png
-  - section_id:       ## Baby Elephant Stars
+  - section_id: Elephant Stars
     image_alt: lorem-ipsum
     image_position: left
     content: |
