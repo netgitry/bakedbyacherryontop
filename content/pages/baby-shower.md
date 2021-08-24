@@ -26,7 +26,7 @@ sections:
     type: section_content
     image: /images/A (11).png
   - section_id: Girl
-    image_alt: lorem-ipsum
+    image_alt: Baby Girl Cake
     image_position: left
     content: |
       ## **Baby Girl Cake**
