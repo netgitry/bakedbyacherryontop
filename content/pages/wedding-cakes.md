@@ -1,5 +1,5 @@
 ---
-title: Wedding
+title: Wedding-Cakes
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
