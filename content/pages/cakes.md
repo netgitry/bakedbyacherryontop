@@ -1,5 +1,5 @@
 ---
-title: Cheesecakes
+title: Cakes
 sections:
   - title: We have CAKES for all occasions
     section_id: cakes
