@@ -14,7 +14,7 @@ sections:
     type: section_content
     image: /images/A (13).png
   - section_id: Shoes
-    image_alt: lorem-ipsum
+    image_alt: Baby Shoes and Stars
     image_position: left
     content: |
       ## Baby Shoes and Stars&#xA;
