@@ -74,7 +74,7 @@ sections:
     type: section_content
     image: /images/A (82).png
   - section_id: Elephant
-    image_alt: lorem-ipsum
+    image_alt: Baby Elephant
     image_position: left
     content: |
       ## Baby Elephant
