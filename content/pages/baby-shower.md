@@ -73,7 +73,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (82).png
-  - section_id: lorem-ipsum
+  - section_id: Elephant
     image_alt: lorem-ipsum
     image_position: left
     content: |
