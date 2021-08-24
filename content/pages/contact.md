@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 sections:
   - title: Contact Us
     image_alt: lorem-ipsum
