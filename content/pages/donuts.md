@@ -1,5 +1,5 @@
 ---
-title: Cupcakes
+title: Donuts
 sections:
   - section_id: Donuts prices and Varians
     col_number: two

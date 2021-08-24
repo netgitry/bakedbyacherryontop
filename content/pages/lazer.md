@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Lazer
 sections:
   - title: Lazer Items to be Uploaded Soon
     section_id: lorem-ipsum
