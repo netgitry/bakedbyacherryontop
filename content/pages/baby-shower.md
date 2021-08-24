@@ -64,7 +64,7 @@ sections:
     type: section_content
     image: /images/A (72).png
   - section_id: Angel
-    image_alt: lorem-ipsum
+    image_alt: Angel Baby
     image_position: left
     content: |
       ## Angel Baby
