@@ -1,5 +1,5 @@
 ---
-title: Lazer
+title: Extras
 sections:
   - title: Extra's Items to be Uploaded Soon
     section_id: Extra's
