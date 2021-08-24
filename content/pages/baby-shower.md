@@ -95,7 +95,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (71).png
-  - section_id: lorem-ipsum
+  - section_id: Bunny
     image_alt: lorem-ipsum
     image_position: left
     content: >
