@@ -92,7 +92,7 @@ sections:
 
     actions:
       - label: Get in Touch
-        url: /contact-us
+        url: /contact
         style: primary
 seo:
   title: Baked by a Cherry on Top
