@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: W
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
