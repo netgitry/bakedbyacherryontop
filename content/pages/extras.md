@@ -1,7 +1,7 @@
 ---
 title: Lazer
 sections:
-  - title: Lazer Items to be Uploaded Soon
+  - title: LazExtra;ser Items to be Uploaded Soon
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
