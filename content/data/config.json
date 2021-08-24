@@ -79,7 +79,7 @@
                     },
                     {
                         "label": "Extra's",
-                        "url": "e",
+                        "url": "extras",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
