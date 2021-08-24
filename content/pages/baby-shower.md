@@ -13,7 +13,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (13).png
-  - section_id: lorem-ipsum
+  - section_id: Shoes
     image_alt: lorem-ipsum
     image_position: left
     content: |
