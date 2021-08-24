@@ -51,7 +51,7 @@ sections:
     actions: []
     type: section_content
     image: /images/A (12).png
-  - section_id: Owl & Stars
+  - section_id: Owl
     image_alt: Owl & Stars
     image_position: left
     content: >
