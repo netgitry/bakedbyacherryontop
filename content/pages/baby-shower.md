@@ -52,7 +52,7 @@ sections:
     type: section_content
     image: /images/A (12).png
   - section_id: Owl & Stars
-    image_alt: lorem-ipsum
+    image_alt: Owl & Stars
     image_position: left
     content: >
       ## Owl & Stars
