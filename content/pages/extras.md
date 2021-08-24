@@ -2,7 +2,7 @@
 title: Lazer
 sections:
   - title: Extra's Items to be Uploaded Soon
-    section_id: lorem-ipsum
+    section_id: Extras
     image_alt: lorem-ipsum
     image_position: left
     content: |
