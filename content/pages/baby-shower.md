@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Baby Shower
 sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
