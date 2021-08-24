@@ -100,7 +100,7 @@ sections:
 
     actions:
       - label: Head over to our platter section
-        url: /platters4
+        url: /platters
         style: primary
         icon_class: dev
         new_window: false
